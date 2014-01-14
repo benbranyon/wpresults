@@ -18,4 +18,5 @@
 		<img src="<?php echo get_template_directory_uri() . '/images/fall-colors.jpg';?>" id="bg" alt="Lake Tahoe" class="bgwidth" />
 
 		<div class="info">
+			<h1>WP Results</h1>
 		</div>
