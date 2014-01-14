@@ -1,0 +1,24 @@
+/*
+Theme Name: WPResults
+Theme URI: http://www.wp-results.com
+Description: The 2014 default wordpress theme for www.wp-results.com
+Author: Ben Branyon
+Author URI: http://www.benbranyon.com
+Version: 1.0 
+License: GPL
+License URI: http://www.opensource.org/licenses/gpl-license.php
+*/
+
+#bg  {
+	position: fixed;
+	top:0;
+	left:0;
+}
+
+.bgwidth {
+	width:100%;
+}
+
+.bgheight {
+	height:100%
+}
