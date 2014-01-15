@@ -9,29 +9,83 @@ License: GPL
 License URI: http://www.opensource.org/licenses/gpl-license.php
 */
 
-#bg  {
-	position: fixed;
-	top:0;
-	left:0;
+@font-face {
+    font-family: 'alfa_slab_oneregular';
+    src: url('fonts/alfaslabone-regular-webfont.eot');
+    src: url('fonts/alfaslabone-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/alfaslabone-regular-webfont.woff') format('woff'),
+         url('fonts/alfaslabone-regular-webfont.ttf') format('truetype'),
+         url('fonts/alfaslabone-regular-webfont.svg#alfa_slab_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
-.bgwidth {
-	width:100%;
+.callout h2 {
+	font-family: 'alfa_slab_oneregular';
 }
 
-.bgheight {
-	height:100%
-}
-
-.info {
-	position:relative;
-	background-color:black;
-	color:white;
-	opacity:0.7;
+.callout h1 {
+	font-size:2.0em;
 	text-align:center;
-	padding:20px;
-	margin-top:100px;
-	border-radius:10px;
-	width:75%;
-	margin:0 auto;
+	font-family: 'alfa_slab_oneregular';
+}
+
+.header {
+	height:150px;
+}
+
+.contact-info {
+	float:right;
+	margin-top:60px;
+}
+
+.navbar {
+	margin-bottom:0px;
+	border-radius:0px;
+}
+
+.navbar-collapse {
+	padding-left:0;
+	padding-right:0;
+}
+
+.content {
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+.jumbotron {
+	background-color: #FFAD00;
+}
+
+.lead {
+	text-align:center;
+}
+
+.marketing {
+	margin-bottom:30px;
+}
+
+.marketing h3, .marketing p {
+	text-align:center;
+}
+
+.footer {
+	background-color:#222222;
+	height:60px;
+	color:white;
+}
+
+.footer a {
+	color:white;
+}
+
+.footer .pull-right {
+	margin-top:20px;
+}
+
+.copyright {
+	padding-top:20px;
+	float:left;
 }
