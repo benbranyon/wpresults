@@ -14,6 +14,9 @@
 				<div class="portfolio-slider-post">
           <img src="<?php echo get_template_directory_uri() . '/images/wnd-screenshot01.png';?>" class="img-responsive" alt="WND" />
 				</div>
+        <div class="portfolio-slider-post">
+          <img src="<?php echo get_template_directory_uri() . '/images/quantumrewards-screenshot.png';?>" class="img-responsive" alt="Fandango" />
+        </div>
 		</section>
   	</div>
   </div>

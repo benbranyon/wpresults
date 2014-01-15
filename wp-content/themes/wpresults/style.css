@@ -31,8 +31,7 @@ License URI: http://www.opensource.org/licenses/gpl-license.php
 	font-family: 'alfa_slab_oneregular';
 }
 
-.header {
-	height:150px;
+.header .container {
 }
 
 .contact-info {
