@@ -23,6 +23,7 @@
 
   <div id="about" class="container marketing">
   	<div class="row">
+      <h2 class="section-title">What we mean by results</h2>
   		<div class="col-sm-4">
   			<h3>We mean Awake</h3>
   			<p>Fortune 500 companies, blogs, and dozens of individual investors with big dreams (and modest budgets) choose us because we listen and know the difference. When you talk with your project manager, you will know the difference too. When someone is really listening and understanding your goals, you can sleep well at night.</p>
@@ -52,6 +53,19 @@
       </div>
     </div>
 
+  </div>
+  <div class="container">
+    <div class="row">
+      <h2 class="section-title">Testimonials</h3>
+      <div class="col-sm-12">
+        <blockquote>
+          <p class="quote">
+            Ben wins at life and at web development.  I came to him in a pickle with a lackluster website, and he rebuilt it into something that I and my clients can be proud of.  Not only was he inordinately patient with me while I tried to explain my vision for the site, but he is also pretty intuitive with making tweaks and upgrades--he seems to know what I'll want before I know it myself.  WP Results has provided my company with a stellar online image.  I couldn't imagine going with anyone else.
+          </p>
+          <small>Mary Holt, Owner Radley's Boo Photography</small>
+        </blockquote>
+      </div>
+    </div>
   </div>
 
 
