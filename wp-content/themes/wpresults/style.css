@@ -26,12 +26,13 @@ License URI: http://www.opensource.org/licenses/gpl-license.php
 }
 
 .callout h1 {
-	font-size:2.0em;
+	font-size:1.4em;
 	text-align:center;
 	font-family: 'alfa_slab_oneregular';
 }
 
-.header .container {
+.header {
+	display:none;
 }
 
 .contact-info {
@@ -47,6 +48,12 @@ License URI: http://www.opensource.org/licenses/gpl-license.php
 .navbar-collapse {
 	padding-left:0;
 	padding-right:0;
+}
+
+.navbar-inverse .navbar-brand {
+	font-family:'alfa_slab_oneregular';
+	font-size:1.7em;
+	color:#EEE;
 }
 
 .content {
@@ -98,4 +105,18 @@ License URI: http://www.opensource.org/licenses/gpl-license.php
 .copyright {
 	padding-top:20px;
 	float:left;
+}
+
+@media (min-width: 768px) {
+	.header {
+		display:block;
+	}
+
+	.callout h1 {
+		font-size:2.0em;
+	}
+
+	.navbar-brand {
+		display:none;
+	}
 }
