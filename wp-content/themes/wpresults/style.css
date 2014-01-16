@@ -66,6 +66,11 @@ License URI: http://www.opensource.org/licenses/gpl-license.php
 	margin-bottom:30px;
 }
 
+.marketing-icon {
+	text-align:center;
+	font-size:60px;
+}
+
 .marketing h3, .marketing p {
 	text-align:center;
 }

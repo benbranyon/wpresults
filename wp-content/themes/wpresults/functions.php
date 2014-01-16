@@ -15,6 +15,7 @@ register_nav_menus(array('primary' => __('Primary Navigation', 'infowars-standar
 add_action('wp_enqueue_scripts', function() {
 	wp_enqueue_script('default-scripts', get_template_directory_uri(). '/js/scripts.js', array('jquery'), '1.0', true);
 	wp_enqueue_script('bootstrap-scripts', get_template_directory_uri(). '/vendor/bootstrap-3.0.0/js/bootstrap.min.js', array('jquery'), '1.0', true);
+	wp_enqueue_style('font-awesome', get_template_directory_uri() . '/css/font-awesome.min.css');
 	wp_enqueue_style('bootstrap-styles', get_template_directory_uri(). '/vendor/bootstrap-3.0.0/css/bootstrap.min.css');
 	wp_enqueue_script('modernizr', get_stylesheet_directory_uri() . '/js/modernizr.custom.js', array('jquery'), false, false);
 	wp_enqueue_style('liquidslider-css', get_template_directory_uri().'/vendor/liquidslider/css/liquid-slider.css', array('bootstrap-styles'));
