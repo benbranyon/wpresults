@@ -11,8 +11,8 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		
 		<title><?php bloginfo('name'); ?> | <?php bloginfo( 'description' ); ?></title>
-		<meta name="description" content="WPResults. The top sites choose us." />
-		<meta name="Keywords" content="">
+		<meta name="description" content="WP-Results. The top sites choose us." />
+		<meta name="Keywords" content="WordPress, wp-results, WP, results, word, press, web, development">
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
