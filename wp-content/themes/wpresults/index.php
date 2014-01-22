@@ -12,10 +12,10 @@
       <p class="lead">We work with the top WordPress sites on the planet. They trust WP Results with their WordPress web site design, programming, and maintenance. Discover what we can do for you.</p>
 		<section class="liquid-slider" id="portfolio-slider">	
 				<div class="portfolio-slider-post">
-          <img src="<?php echo get_template_directory_uri() . '/images/wnd-screenshot01.png';?>" class="img-responsive" alt="WND" />
+          <img src="<?php echo get_template_directory_uri() . '/images/quantumrewards-screenshot.png';?>" class="img-responsive" alt="Fandango" />
 				</div>
         <div class="portfolio-slider-post">
-          <img src="<?php echo get_template_directory_uri() . '/images/quantumrewards-screenshot.png';?>" class="img-responsive" alt="Fandango" />
+          <img src="<?php echo get_template_directory_uri() . '/images/wnd-screenshot01.png';?>" class="img-responsive" alt="WND" />
         </div>
 		</section>
   	</div>
