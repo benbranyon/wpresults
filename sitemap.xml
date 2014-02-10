@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://www.wpresults.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.8.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.4" -->
+<!-- generated-on="February 9, 2014 4:26 am" -->
+<!-- Debug: Total comment count: 1 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://www.wpresults.com/</loc>
+		<lastmod>2014-01-15T15:49:38+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+	<url>
+		<loc>http://www.wpresults.com/contact/</loc>
+		<lastmod>2014-01-15T15:49:38+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://www.wpresults.com/portfolio/</loc>
+		<lastmod>2014-01-14T22:47:52+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://www.wpresults.com/about/</loc>
+		<lastmod>2014-01-14T22:47:40+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1: Comments: 1 of 1 = 1 points -->
+	<url>
+		<loc>http://www.wpresults.com/hello-world/</loc>
+		<lastmod>2014-01-14T05:07:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>
