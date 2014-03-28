@@ -107,6 +107,10 @@ License URI: http://www.opensource.org/licenses/gpl-license.php
 	float:left;
 }
 
+.short-page {
+	min-height:400px;
+}
+
 @media (min-width: 768px) {
 	.header {
 		display:block;

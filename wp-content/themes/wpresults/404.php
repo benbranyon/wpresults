@@ -6,7 +6,7 @@
 
 get_header(); ?>
 
-  <div class="container">
+  <div class="container short-page">
   		<div class="row">
 
 			<article id="post-0" class="post error404 no-results not-found">
