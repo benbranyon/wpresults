@@ -6,8 +6,8 @@
 
 get_header(); ?>
 
-	<div id="primary" class="site-content">
-		<div id="content" role="main">
+  <div class="container">
+  		<div class="row">
 
 			<article id="post-0" class="post error404 no-results not-found">
 				<header class="entry-header">
