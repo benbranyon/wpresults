@@ -101,7 +101,7 @@ h2 {
 
 .section-title {
 	text-align:center;
-	font-size:4.0em;
+	font-size:2.0em;
 	font-family: 'franchiseregular';
 }
 
@@ -139,5 +139,9 @@ h2 {
 
 	.navbar-brand {
 		display:none;
+	}
+
+	.section-title {
+		font-size: 4.0em;
 	}
 }
