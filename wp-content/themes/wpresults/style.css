@@ -35,10 +35,11 @@ License URI: http://www.opensource.org/licenses/gpl-license.php
 
 .callout h2 {
 	font-family: 'franchiseregular';
+	margin-bottom:0px;
 }
 
 .callout h1 {
-	font-size:1.4em;
+	font-size:4.0em;
 	text-align:center;
 	font-family: 'franchiseregular';
 }
@@ -63,7 +64,7 @@ License URI: http://www.opensource.org/licenses/gpl-license.php
 }
 
 .navbar-inverse .navbar-brand {
-	font-family:'alfa_slab_oneregular';
+	font-family:'franchiseregular';
 	font-size:1.7em;
 	color:#EEE;
 }
@@ -97,7 +98,7 @@ License URI: http://www.opensource.org/licenses/gpl-license.php
 .section-title {
 	text-align:center;
 	font-size:2.5em;
-	font-family: 'alfa_slab_oneregular';
+	font-family: 'franchiseregular';
 }
 
 .footer {
