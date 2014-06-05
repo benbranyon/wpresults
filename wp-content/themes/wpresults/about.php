@@ -7,8 +7,12 @@
   get_header();?>
   <div class="container content">
   <div id="about" class="container marketing">
-  	<div class="row">
+  <div class="callout jumbotron">
+    <div class="container">
       <h2 class="section-title">What we mean by results</h2>
+    </div>
+  </div>
+  	<div class="row">
   		<div class="col-sm-4">
         <div class="marketing-icon">
           <i class="fa fa-coffee"></i>
