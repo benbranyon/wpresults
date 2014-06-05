@@ -13,7 +13,11 @@ get_header(); ?>
 		<div class="row">
 			<div class="col-sm-6">
 			<?php while ( have_posts() ) : the_post(); ?>
-				<?php the_title( '<h1 class="entry-title">', '</h1>' );?>
+				<div class="callout jumbotron">
+  					<div class="container">
+						<?php the_title( '<h1>', '</h1>' );?>
+					</div>
+				</div>
 				<?php the_content(); ?>
 
 			<?php endwhile; ?>
