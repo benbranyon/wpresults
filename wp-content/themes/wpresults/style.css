@@ -22,25 +22,25 @@ License URI: http://www.opensource.org/licenses/gpl-license.php
 }
 
 @font-face {
-    font-family: 'acknowledgementmedium';
-    src: url('fonts/acknowledgement-webfont.eot');
-    src: url('fonts/acknowledgement-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/acknowledgement-webfont.woff') format('woff'),
-         url('fonts/acknowledgement-webfont.ttf') format('truetype'),
-         url('fonts/acknowledgement-webfont.svg#acknowledgementmedium') format('svg');
+    font-family: 'franchiseregular';
+    src: url('fonts/franchise-bold-webfont.eot');
+    src: url('fonts/franchise-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/franchise-bold-webfont.woff') format('woff'),
+         url('fonts/franchise-bold-webfont.ttf') format('truetype'),
+         url('fonts/franchise-bold-webfont.svg#franchiseregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
 
 .callout h2 {
-	font-family: 'acknowledgementmedium';
+	font-family: 'franchiseregular';
 }
 
 .callout h1 {
 	font-size:1.4em;
 	text-align:center;
-	font-family: 'acknowledgementmedium';
+	font-family: 'franchiseregular';
 }
 
 .header {
