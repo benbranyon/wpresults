@@ -9,19 +9,18 @@
  */
 
 get_header(); ?>
-	<div class="container content">
-		<div class="row">
-			<div class="col-sm-6">
-			<?php while ( have_posts() ) : the_post(); ?>
-				<div class="callout jumbotron">
-  					<div class="container">
-						<?php the_title( '<h1>', '</h1>' );?>
-					</div>
-				</div>
-				<?php the_content(); ?>
-
-			<?php endwhile; ?>
+	<?php while ( have_posts() ) : the_post(); ?>
+		<div class="callout jumbotron">
+				<div class="container">
+				<?php the_title( '<h1>', '</h1>' );?>
 			</div>
 		</div>
-	</div>
+		<div class="container content">
+			<div class="row">
+				<div class="col-sm-6">
+					<?php the_content(); ?>
+				</div>
+			</div>
+		</div>
+	<?php endwhile; ?>
 <?php get_footer(); ?>
