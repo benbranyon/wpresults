@@ -1,0 +1,92 @@
+/* Browser Resets */
+.flex-container a:active,
+.flexslider a:active,
+.flex-container a:focus,
+.flexslider a:focus  {outline: none;}
+.flexslider .slides,
+.flexslider .flex-control-nav,
+.flexslider .flex-direction-nav {margin: 0; padding: 0; list-style: none;visibility:hidden;} 
+
+/* FlexSlider Necessary Styles
+*********************************/ 
+.flexslider {margin: 0; padding: 0;position: relative;overflow:hidden;background:url('../images/loader.gif') no-repeat center;min-height:500px;}
+.flexslider .slides > li {   position: relative;margin: 0;display: none; -webkit-backface-visibility: hidden;} /* Hide the slides before the JS is loaded. Avoids image jumping */
+.flexslider .slides img {width: 100%; display: block;}
+.flex-pauseplay span {text-transform: capitalize;}
+/* Clearfix for the .slides element */
+.slides:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;} 
+html[xmlns] .slides {display: block;} 
+* html .slides {height: 1%;}
+/* No JavaScript Fallback */
+/* If you are not using another script, such as Modernizr, make sure you
+* include js that eliminates this class on page load */
+.no-js .slides > li:first-child {display: block;}
+/* FlexSlider Default Theme
+*********************************/
+.flex-viewport {max-height: 2000px; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; transition: all 1s ease;}
+.loading .flex-viewport {max-height: 300px;}
+/* caption */
+.flex-caption {   
+	color: #FFFFFF;
+    left: 0;
+    margin: 0 auto;
+    padding: 25px;
+    position: absolute;
+    right: 0;
+    top: 125px;
+    width: 65%; 
+	text-align:center;
+}
+.flex-caption span {font-size: 12px; line-height: 21px;display: block;font-weight: 300; }
+.flex-caption .slider-title {   
+	font-family: OpenSansBold;
+    font-size: 50px;
+    letter-spacing: 1px;
+    line-height: 55px;
+    padding-bottom: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    width: auto;}
+.flex-caption .text { margin-bottom: 10px;font-size:14px;line-height:24px;text-align:center;font-family: OpenSanslight;text-shadow: 1px 1px 1px #FFFFFF;}
+.slider-link  a {    border: 1px solid #F54336;
+    cursor: pointer;
+    display: inline-block;
+   font-family: OpenSansSemibold;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-bottom: 3px;
+    margin-top: 15px;
+    padding: 6px 15px;
+    position: relative;
+    text-transform: uppercase;
+    transition: all 0.3s linear 0s;
+}
+.slider-link  a:hover{ background: none repeat scroll 0 0 #F54336;color: #FFFFFF; transition: all 0.3s linear 0s;}
+/* Direction Nav */
+.flex-direction-nav > li { margin: 0;}
+.flex-direction-nav a {width: 59px; height: 62px; margin: -20px 0 0; display: block; position: absolute; bottom: 5%; cursor: pointer; text-indent: -9999px; opacity: 0; z-index: 5;transition: all 0.5s ease 0s;-webkit-transition: all 0.5s ease 0s;-moz-transition: all 0.5s ease 0s;-o-transition: all 0.5s ease 0s;}
+.flex-direction-nav .flex-next {background-position: 100% 0; right: 0px;background: url(../images/next-arrow.png) no-repeat center center  rgba(255, 255, 255, .8);}
+.flex-direction-nav .flex-prev {right: 0px; background-position: center bottom;background: url(../images/pre-arrow.png) no-repeat center center  rgba(255, 255, 255, .8); }
+.flexslider:hover .flex-next {opacity: 0.8; right: 5px;}
+.flexslider:hover .flex-prev {opacity: 0.8; right: 64px;}
+.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover {opacity: 1;transition: all 0.5s ease 0s;-webkit-transition: all 0.5s ease 0s;-moz-transition: all 0.5s ease 0s;-o-transition: all 0.5s ease 0s;}
+.flex-direction-nav .disabled {opacity: 0.3 !important; cursor: default;}
+/* Control Nav */
+.flex-control-nav {  bottom: 15px;position: absolute; text-align: center; width: 100%; z-index: 2;} 
+.flex-control-nav li {margin: 0 6px; display: inline-block;}
+.flex-control-paging li a {width: 11px; height: 11px; display: block; cursor: pointer; text-indent: -9999px; -webkit-border-radius: 20px; -moz-border-radius: 20px; -o-border-radius: 20px; border-radius: 20px;  border: 1px solid #fff;}
+.flex-control-paging li a:hover { }
+.flex-control-paging li a.flex-active { cursor: default; border: none;background:#fff;}
+.flex-control-thumbs {margin: 5px 0 0; position: static; overflow: hidden;}
+.flex-control-thumbs li {width: 25%; float: left; margin: 0;}
+.flex-control-thumbs img {width: 100%; display: block; opacity: .6; cursor: pointer;}
+.flex-control-thumbs img:hover {opacity: 1;}
+.flex-control-thumbs .active {opacity: 1; cursor: default;}
+.progress_bar_container { height: 4px; width: 100%; position: relative;z-index: 5; top: 70px;}
+.empty_progress_bar { background: #DBDBDB; height: 4px; width: 100%; position: relative;}
+.progress_bar { background: #F54336; height: 4px; width: 0%; position: relative;}
+/* Revolution Slider
+--------------------------------------------------------*/
+.tp-leftarrow.default,.tp-rightarrow.default { background: url("../images/prev_hover.png") no-repeat scroll 0 0 transparent; cursor: pointer;     height: 72px;opacity: 0.6;width: 31px; } 
+.tp-rightarrow.default { background: url("../images/next_hover.png") no-repeat scroll 0 0 transparent; cursor: pointer;}
+.tp-leftarrow.default:hover,.tp-rightarrow.default:hover { opacity: 1; } 
