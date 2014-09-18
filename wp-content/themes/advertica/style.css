@@ -791,6 +791,10 @@ a.skt-featured-icons {
     border-radius:40px;
 }
 
+a.skt-featured-icons:hover {
+    box-shadow: 10px 10px 5px #888888;
+}
+
 a.skt-featured-icons:before {
     border:none;
 }
