@@ -788,7 +788,7 @@ div.follow-icons li a {background: #2C2D2E; display: block; border-radius: 2px; 
 a.skt-featured-icons {
     height:80px;
     width:80px;
-    border-radius:20px;
+    border-radius:40px;
 }
 
 a.skt-featured-icons:before {
