@@ -798,3 +798,7 @@ a.skt-featured-icons:before {
 a.skt-featured-icons:after {
     border:none;
 }
+
+.iconbox-icon i {
+    line-height:80px;
+}
