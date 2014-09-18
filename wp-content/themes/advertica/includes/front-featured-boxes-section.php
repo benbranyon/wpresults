@@ -89,12 +89,12 @@ if($fraturedbox == '1'){?>
 				<div class="skt-iconbox iconbox-top">		
 					<div class="iconbox-icon skt-animated small-to-large skt-viewport">
 						<a class="skt-featured-icons" href="" title="">				
-							<i class="fa"></i>
+							<i class="fa fa-users"></i>
 						</a>
 					</div>			
 					<div class="iconbox-content">			
-						<h4></h4>				
-						<p></p>		
+						<h4>We mean Service</h4>				
+						<p>We match you with a Senior Developer who understands your business and has the freedom to focus exclusively on your project. We take care of everything so all they have left to do is code your precise vision into a reality, on-time and on-budget.</p>		
 					</div>		
 					<div class="clearfix"></div>	
 				</div>
@@ -104,12 +104,12 @@ if($fraturedbox == '1'){?>
 				<div class="skt-iconbox iconbox-top">		
 					<div class="iconbox-icon skt-animated small-to-large skt-viewport">
 						<a class="skt-featured-icons" href="" title="">				
-							<i class="fa"></i>
+							<i class="fa fa-desktop"></i>
 						</a>
 					</div>			
 					<div class="iconbox-content">			
-						<h4></h4>				
-						<p></p>		
+						<h4>We mean Experienced</h4>				
+						<p>With decades of experience and millions of dollars in projects under our belt, we have seen and done it all. We understand that your website is your life-blood and when it goes down you’re essentially out of business. Our unparalleled industry and WordPress knowledge means you miss out on all the hard knocks and setbacks that would otherwise be in your future. Sorry about that!</p>		
 					</div>		
 					<div class="clearfix"></div>	
 				</div>
@@ -119,12 +119,12 @@ if($fraturedbox == '1'){?>
 				<div class="skt-iconbox iconbox-top">		
 					<div class="iconbox-icon skt-animated small-to-large skt-viewport">
 						<a class="skt-featured-icons" href="" title="">				
-							<i class="fa"></i>
+							<i class="fa fa-money"></i>
 						</a>
 					</div>			
 					<div class="iconbox-content">			
-						<h4></h4>				
-						<p></p>		
+						<h4>We mean Affordable</h4>				
+						<p>Because we provide our Senior Developers with an environment where their every need is accounted for, all they have left to do is hold planning and review calls with you, our valued customer, and… program. And when a programmer is free to program, you get the results you need at the best price possible.</p>		
 					</div>		
 					<div class="clearfix"></div>	
 				</div>
