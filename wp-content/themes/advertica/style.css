@@ -771,3 +771,16 @@ div.follow-icons li a {background: #2C2D2E; display: block; border-radius: 2px; 
 .skt-awesome-title { color: #FFA500;font-family: OpenSansSemibold;font-size: 50px;line-height: 50px;}
 .skt-awesome-desp { font-size: 18px;line-height: 27px;margin-top:10px; }
 .skt-statistics-wrap{padding:60px 0px;}
+
+
+/******* CUSTOM CSS  ******/
+.skt-awesome-section {
+    /* Fallback for web browsers that doesn't support RGBa */
+    background: rgb(0, 0, 0);
+    /* RGBa with 0.6 opacity */
+    background: rgba(0, 0, 0, 0.6);
+    /* For IE 5.5 - 7*/
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+    /* For IE 8*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+}
