@@ -821,3 +821,19 @@ a.skt-featured-icons:after {
     text-transform: uppercase;
     font-size:35px;
 }
+
+@media screen and (max-width: 468px) {
+    div#full-static-box {
+        display:none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #logo {
+        width:60%;
+    }
+
+    #skehead .top-nav-menu {
+        width:40%;
+    }
+}
