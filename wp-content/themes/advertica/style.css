@@ -830,10 +830,10 @@ a.skt-featured-icons:after {
 
 @media screen and (max-width: 768px) {
     #logo {
-        width:60%;
+        width:60%!important;
     }
 
     #skehead .top-nav-menu {
-        width:40%;
+        width:40%!important;
     }
 }
