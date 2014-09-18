@@ -17,6 +17,7 @@
 	<meta http-equiv="Content-Type" content="<?php bloginfo('html_type'); ?>; charset=<?php bloginfo('charset'); ?>" />
 	<title><?php wp_title( '|', true, 'right' ); ?></title>
 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<meta property="og:image" content="<?php echo get_template_directory_uri() . '/images/coffee-computer-150x150.jpg';?>" />
 <!--[if IE 9]>
 	<meta http-equiv="X-UA-Compatible" content="IE=9" />
 <![endif]-->
