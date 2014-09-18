@@ -790,3 +790,11 @@ a.skt-featured-icons {
     width:80px;
     border-radius:20px;
 }
+
+a.skt-featured-icons:before {
+    border:none;
+}
+
+a.skt-featured-icons:after {
+    border:none;
+}
