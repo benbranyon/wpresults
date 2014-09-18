@@ -810,3 +810,8 @@ a.skt-featured-icons:after {
 .iconbox-icon i {
     line-height:80px;
 }
+
+/*** PAGE ***/
+.bread-title-holder h1.title {
+    text-transform: uppercase;
+}
