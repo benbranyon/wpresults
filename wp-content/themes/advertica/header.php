@@ -25,6 +25,7 @@
 	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
 	<?php wp_head(); ?>
+	<meta property="og:description" content="The top WordPress sites choose us. Discover what we can do for you." />
 </head>
 <body <?php body_class(); ?> >
 	<div id="wrapper" class="skepage">
