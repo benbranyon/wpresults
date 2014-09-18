@@ -792,7 +792,7 @@ a.skt-featured-icons {
 }
 
 a.skt-featured-icons:hover {
-    box-shadow: 5px 5px 5px #333;
+    box-shadow: 2px 2px 6px #555;
   -webkit-transition: all 0.4s ease;
   -moz-transition:    all 0.4s ease;
   -ms-transition:     all 0.4s ease;
