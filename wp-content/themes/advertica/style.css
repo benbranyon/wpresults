@@ -813,8 +813,8 @@ a.skt-featured-icons:after {
 
 /*** PAGE ***/
 
-.bread-title-holder {
-    background:#FFF;
+.bread-title-holder, .full-bg-breadimage-fixed {
+    background-color:#FFF;
 }
 
 .bread-title-holder h1.title {
