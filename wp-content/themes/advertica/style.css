@@ -820,6 +820,10 @@ a.skt-featured-icons:after {
     line-height:80px;
 }
 
+#full-static-box {
+    padding:100px 0px;
+}
+
 /*** PAGE ***/
 
 .bread-title-holder, .full-bg-breadimage-fixed {
