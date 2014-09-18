@@ -18,6 +18,7 @@
 	<title><?php wp_title( '|', true, 'right' ); ?></title>
 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 	<meta property="og:image" content="http://www.wp-results.com/wp-content/uploads/2014/09/coffee-computer-270x230.jpg" />
+	<meta property="og:description" content="The top WordPress sites choose us. Discover what we can do for you." />
 <!--[if IE 9]>
 	<meta http-equiv="X-UA-Compatible" content="IE=9" />
 <![endif]-->
