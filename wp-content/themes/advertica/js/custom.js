@@ -303,7 +303,7 @@ jQuery(function($) {
 
 	$('a').click(function(){
 	    $('html, body').animate({
-	        scrollTop: $( $.attr(this, 'href') ).offset().top - 95
+	        scrollTop: $( $.attr(this, 'href') ).offset().top - 105
 	    }, 500);
 	    return false;
 	});
