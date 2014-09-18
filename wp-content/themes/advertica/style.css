@@ -784,3 +784,9 @@ div.follow-icons li a {background: #2C2D2E; display: block; border-radius: 2px; 
     /* For IE 8*/
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
 }
+
+a.skt-featured-icons {
+    height:80px;
+    width:80px;
+    border-radius:20px;
+}
