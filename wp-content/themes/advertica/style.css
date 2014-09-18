@@ -774,6 +774,12 @@ div.follow-icons li a {background: #2C2D2E; display: block; border-radius: 2px; 
 
 
 /******* CUSTOM CSS  ******/
+
+#featured-box h2 {
+    text-align:center;
+    margin-bottom:10px;
+}
+
 .skt-awesome-section {
     /* Fallback for web browsers that doesn't support RGBa */
     background: rgb(0, 0, 0);
