@@ -14,10 +14,10 @@ $_fb3_first_icon_class = ($_fb3_first_icon_class !="") ? $_fb3_first_icon_class 
 if($fraturedbox == '1'){?>
 <div id="featured-box" class="skt-section">
 	<div class="container">
-		<div class="mid-box-mid row-fluid"> 
 			<div>
 				<h2 class="featured-headline">What we mean by results</h2>
 			</div>
+		<div class="mid-box-mid row-fluid"> 
 			<!-- Featured Box 1 -->
 			<div class="mid-box span4 fade_in_hide element_fade_in">
 				<div class="skt-iconbox iconbox-top">		
