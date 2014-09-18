@@ -40,7 +40,6 @@ if($tweetfeedmeta == '1'){ ?>
 			<div class="row-fluid">
 				<?php $sktURL = 'http://www.sketchthemes.com/'; ?>
 				<div class="copyright span6 alpha omega"> <?php echo stripslashes(sketch_get_option($advertica_shortname."_copyright")); ?> </div>
-				<div class="owner span6 alpha omega"><?php _e('Advertica Theme by','advertica'); ?> <a href="<?php echo $sktURL; ?>" title="Sketch Themes"><?php _e('SketchThemes','advertica'); ?></a></div>
 				<div class="clearfix"></div>
 			</div>
 		</div>
