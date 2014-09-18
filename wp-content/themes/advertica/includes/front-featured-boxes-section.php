@@ -83,7 +83,7 @@ if($fraturedbox == '1'){?>
 			</div>
 			<div class="clearfix"></div>
 		</div>
-		<div class="mid-box-mid row-fluid"> 
+		<div class="mid-box-mid row-fluid" style="margin-top:20px;"> 
 			<!-- Featured Box 3 -->
 			<div class="mid-box span4 fade_in_hide element_fade_in" >
 				<div class="skt-iconbox iconbox-top">		
