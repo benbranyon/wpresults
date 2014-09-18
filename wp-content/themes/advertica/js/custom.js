@@ -303,11 +303,11 @@ jQuery(function($) {
 
 	$('a').click(function(){
 	    $('html, body').animate({
-	        scrollTop: $( $.attr(this, 'href') ).offset().top
+	        scrollTop: $( $.attr(this, 'href') ).offset().top - 95
 	    }, 500);
 	    return false;
 	});
-	
+
 });
 
 //------------------------------------------------------------
