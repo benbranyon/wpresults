@@ -873,9 +873,9 @@ a.skt-featured-icons:after {
 }
 
 @media screen and (max-width: 1024px) {
-    
+
     #featured-box h2.featured-headline {
-        padding-top:40px;
+        padding-top:60px;
         margin-bottom:0px;
         padding-bottom:0px;
     }
