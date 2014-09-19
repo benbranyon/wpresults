@@ -862,8 +862,9 @@ a.skt-featured-icons:after {
     }
 
     #featured-box h2.featured-headline {
-        padding-top:10px;
+        padding-top:20px;
         margin-bottom:0px;
+        padding-bottom:0px;
     }
 }
 
