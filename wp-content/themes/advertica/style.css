@@ -784,6 +784,7 @@ div.follow-icons li a {background: #2C2D2E; display: block; border-radius: 2px; 
     padding-top: 0px;
     text-transform: uppercase;
     text-align:center;
+    text-shadow: 0px 3px 7px rgba(74, 150, 150, 1);
 }
 
 .border_left {
