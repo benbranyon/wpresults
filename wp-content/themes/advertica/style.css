@@ -777,17 +777,19 @@ div.follow-icons li a {background: #2C2D2E; display: block; border-radius: 2px; 
 
 #featured-box h2.featured-headline {
     font-family: 'OpenSansbold';
-    font-size: 18px;
+    font-size: 22px;
     font-weight: 300;
     letter-spacing: 1px;
     margin: 0 0 10px;
     padding-top: 0px;
     text-transform: uppercase;
+    text-align:center;
 }
 
 .border_left {
     border-bottom: 1px solid #999999;
     display: block;
+    margin:0 auto;
     margin-bottom: 10px;
     width: 100px;
 }
