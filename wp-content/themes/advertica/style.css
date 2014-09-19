@@ -794,6 +794,11 @@ div.follow-icons li a {background: #2C2D2E; display: block; border-radius: 2px; 
     width: 100px;
 }
 
+#portfolio-division-box .border_left, #full-client-box .border_left {
+    margin:0;
+    margin-bottom:10px;
+}
+
 .skt-awesome-section {
     /* Fallback for web browsers that doesn't support RGBa */
     background: rgb(0, 0, 0);
