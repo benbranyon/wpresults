@@ -783,10 +783,6 @@ div.follow-icons li a {background: #2C2D2E; display: block; border-radius: 2px; 
     text-transform: uppercase;
 }
 
-.skt-iconbox.iconbox-top .iconbox-content h4 {
-    color:#FFA500;
-}
-
 .skt-awesome-section {
     /* Fallback for web browsers that doesn't support RGBa */
     background: rgb(0, 0, 0);
