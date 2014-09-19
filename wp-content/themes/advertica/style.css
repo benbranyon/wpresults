@@ -860,6 +860,11 @@ a.skt-featured-icons:after {
     div#full-static-box {
         display:none;
     }
+
+    #featured-box h2.featured-headline {
+        padding-top:10px;
+        margin-bottom:0px;
+    }
 }
 
 @media screen and (max-width: 768px) {
