@@ -98,7 +98,7 @@ if($fraturedbox == '1'){?>
 					</div>			
 					<div class="iconbox-content">			
 						<h4>We mean Service</h4>				
-						<p>We match you with a Senior Developer who understands your business and has the freedom to focus exclusively on your project. We take care of everything so all they have left to do is code your precise vision into a reality, on-time and on-budget.</p>		
+						<p>We match you with a Senior Developer who understands your business and has the freedom to focus exclusively on your project. We take care of everything so all they have left to do is code your precise vision into a reality, on-time and on-budget. Our top notch WordPress web development team offers guaranteed results.</p>		
 					</div>		
 					<div class="clearfix"></div>	
 				</div>
@@ -113,7 +113,7 @@ if($fraturedbox == '1'){?>
 					</div>			
 					<div class="iconbox-content">			
 						<h4>We mean Experienced</h4>				
-						<p>With decades of experience and millions of dollars in projects under our belt, we have seen and done it all. We understand that your website is your life-blood and when it goes down you’re essentially out of business. Our unparalleled industry and WordPress knowledge means you miss out on all the hard knocks and setbacks that would otherwise be in your future. Sorry about that!</p>		
+						<p>With decades of experience and millions of dollars in projects under our belt, we have seen and done it all. We specialize in custom themes and plugins. We understand that your website is your life-blood and when it goes down you’re essentially out of business. Our unparalleled industry and WordPress knowledge means you miss out on all the hard knocks and setbacks that would otherwise be in your future. Sorry about that!</p>		
 					</div>		
 					<div class="clearfix"></div>	
 				</div>
