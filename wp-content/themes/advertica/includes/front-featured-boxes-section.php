@@ -14,7 +14,7 @@ $_fb3_first_icon_class = ($_fb3_first_icon_class !="") ? $_fb3_first_icon_class 
 if($fraturedbox == '1'){?>
 <div id="featured-box" class="skt-section">
 	<div class="container">
-			<div class="span8 port-title">
+			<div class="span12 port-title">
 				<h2 class="featured-headline">What we mean by results</h2>
 			</div>
 		<div class="mid-box-mid row-fluid"> 
