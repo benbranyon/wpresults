@@ -15,7 +15,8 @@ if($fraturedbox == '1'){?>
 <div id="featured-box" class="skt-section">
 	<div class="container">
 			<div class="span12 port-title">
-				<h2 class="featured-headline">What we mean by results</h2>
+				<h3 class="featured-headline">What we mean by results</h3>
+				<span class="border_left"></span>
 			</div>
 		<div class="mid-box-mid row-fluid"> 
 			<!-- Featured Box 1 -->
